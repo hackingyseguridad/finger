@@ -1,4 +1,5 @@
-#!/bin/bash 
+#!/bin/bash
+# apt-get install finger
 cat << "INFO"
 
 INFO
