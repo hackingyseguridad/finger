@@ -5,7 +5,7 @@ INFO
 if [ -z "$1" ]; then
         echo
         echo "Tcp79/Finger."
-        echo "Uso.: sh finger.sh <ip>"
+        echo "Uso.: ./finger.sh <ip>"
         echo
         exit 0
 fi
