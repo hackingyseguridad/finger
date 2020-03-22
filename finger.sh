@@ -5,7 +5,8 @@ cat << "INFO"
 INFO
 if [ -z "$1" ]; then
         echo
-        echo "Tcp79/Finger."
+        echo "tcp79/Finger."
+        echo
         echo "Uso.: ./finger.sh <ip>"
         echo
         exit 0
